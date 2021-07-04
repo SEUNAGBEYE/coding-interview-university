@@ -64,9 +64,9 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [] [What is it?](#what-is-it)
-- [] [Why use it?](#why-use-it)
-- [] [How to use it](#how-to-use-it)
+- [x] [What is it?](#what-is-it)
+- [x] [Why use it?](#why-use-it)
+- [x] [How to use it](#how-to-use-it)
 - [] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [] [About Video Resources](#about-video-resources)
 - [] [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
@@ -230,11 +230,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 </details>
 
 ## Don't feel you aren't smart enough
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-- [Believe you can change](http://www.aaronsw.com/weblog/dweck)
-- [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
+- [x] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [x] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
+- [x] [Think you're not smart enough to work at Google? Well, think again](https://www.youtube.com/watch?v=uPOJ1PR50ag)
 
 ## About Video Resources
 
@@ -250,10 +250,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 <details>
 <summary>Interview Process & General Interview Prep</summary>
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [Effective Whiteboarding during Programming Interviews (paid)](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [ ] [Demystifying Tech Recruiting (video)](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
